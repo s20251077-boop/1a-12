@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="wjhMe.^#Qu|+!JSuO1aa" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="x9v68lk)8~DPrtIlG+s."><field name="i">IconNames.Happy</field><next><block type="device_show_leds" id="AHuSY%tv]:/a+C06T+`r"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block><block type="device_button_event" id="=;QVP@*F[r!#L=)^7.nm" x="-19" y="383"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="d}Q_zHhWo~9BxUHd8-Nm"><value name="text"><shadow type="text" id="3|[o3h1di3PrR|(2wvmU"><field name="TEXT">Shao</field></shadow></value></block></statement></block><block type="device_button_event" id="wOw@0@5^l+wLR2{#-F=?" x="-6" y="520"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="tIEJS,yQN?npD5U_9ywn"><value name="text"><shadow type="text" id=":n^r.0%Ihq#)AVXV}7TF"><field name="TEXT">Man Yiu</field></shadow></value></block></statement></block></xml>
